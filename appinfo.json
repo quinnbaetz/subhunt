@@ -1,0 +1,9 @@
+{
+	"id": "com.quinnbaetz.submarine",
+	"version": "1.0.0",
+	"vendor": "Quinn Baetz",
+	"type": "web",
+	"main": "index.html",
+	"title": "Submarine",
+	"icon": "icon.png"
+}
